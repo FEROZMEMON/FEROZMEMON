@@ -1,3 +1,4 @@
+![logo](https://github.com/FEROZMEMON/FEROZMEMON/blob/main/Nice%20to%20meet%20you!.png)
 <h1 align="center">Hi 👋, I'm Feroz Abdul Habib</h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
