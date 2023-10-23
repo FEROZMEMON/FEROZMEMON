@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ferozmemon726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ferozmemon726" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/feroz memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feroz memon" height="30" width="40" /></a>
-<a href="https://fb.com/feroz memon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="feroz memon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/feroz-memon-193a0b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feroz memon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008048476675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="feroz memon" height="30" width="40" /></a>
 <a href="https://instagram.com/feroz_memon726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="feroz_memon726" height="30" width="40" /></a>
 </p>
 
