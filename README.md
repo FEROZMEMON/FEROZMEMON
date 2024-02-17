@@ -1,4 +1,4 @@
-![logo](https://github.com/FEROZMEMON/FEROZMEMON/blob/main/banner.png)
+<div align="center" ><img alt="coding" width="70%" src="https://github.com/FEROZMEMON/FEROZMEMON/blob/main/banner.png"></div>
 <h1 align="center">Hi 👋, I'm Feroz Abdul Habib</h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
