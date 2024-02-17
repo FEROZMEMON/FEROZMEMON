@@ -1,4 +1,4 @@
-![logo](https://github.com/FEROZMEMON/FEROZMEMON/blob/main/laptop.jpg)
+![logo](https://github.com/FEROZMEMON/FEROZMEMON/blob/main/bannner.jpg)
 <h1 align="center">Hi 👋, I'm Feroz Abdul Habib</h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
