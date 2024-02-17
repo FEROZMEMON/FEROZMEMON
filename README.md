@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ferozmemon.github.io/My-Portfolio/](https://ferozmemon.github.io/My-Portfolio/)
 
-- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT....**
+- 💬 Ask me about **HTML5, CSS3, JAVASCRIPT, Node.js, React....**
 
 - 📫 How to reach me **ferozmemon726@gmail.com**
 
